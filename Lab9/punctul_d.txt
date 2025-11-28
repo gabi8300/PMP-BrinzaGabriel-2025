@@ -1,0 +1,6 @@
+Distributia lui n ne spune cat de siguri suntem de valoarea parametrului fix n. 
+Aceasta include doar o necunoscuta (incertitudinea asupra lui n) si de aceea este ingusta.
+
+Distribuția lui Y* ne spune cat de siguri suntem de o observatie noua si include 
+doua necunoscute: incertitudinea asupra lui n si rezultatul aleatoriu al cumparăturilor. 
+Din aceasta cauza, distributia lui Y* este intotdeauna mai lata si mai raspandita.

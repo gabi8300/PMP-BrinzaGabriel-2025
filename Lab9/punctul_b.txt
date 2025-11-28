@@ -1,0 +1,14 @@
+Un Y mare (Y=10) muta distributia posterioara a lui n catre 
+valori mai mari decat priorul (Poisson(10)), deoarece sunt necesari 
+mai multi clienti pentru a obtine un numar mare de cumparatori.
+
+Un Y mic (Y=0) face ca distributia posterioara sa fie mai 
+concentrata in jurul valorilor mici ale lui n.
+
+Daca observam de exemplu Y=5 cumparatori, dar stim ca doar 20% dintre 
+clienti cumpara (teta=0.2), distributia posterioara pentru n va fi centrata 
+in jurul valorilor mari (aproximativ 5/0.2=25).
+
+Daca observam acelasi Y=5 cumparatori, dar stim ca 50% dintre clienti 
+cumpara (teta=0.5), distributia posterioara pentru n va fi centrata in 
+jurul valorilor mai mici (aproximativ 5/0.5=10).
